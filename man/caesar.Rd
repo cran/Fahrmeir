@@ -39,9 +39,9 @@
 \examples{
 summary(caesar)
 caesar.glm1 <- glm(yl ~ noplan+factor+antib, data=caesar, weight=w, 
-                       family=binomial)
+                       family=binomial(link="logit"))
 caesar.glm2 <- glm(yl ~ noplan+factor+antib, data=caesar, weight=w, 
-                   family=binomial(link=probit))
+                   family=binomial(link="probit"))
 summary(caesar.glm1)
 summary(caesar.glm2)
 }
