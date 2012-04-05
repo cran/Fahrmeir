@@ -33,9 +33,6 @@
    Based on Generalized Linear Models. Springer Series in Statistics. 
    Springer Verlag. New-York  Berlin Heidelberg
 }
-\references{
-  
-}
 \examples{
 str(breath)
 breath$Breathing.test <- ordered(breath$Breathing.test)

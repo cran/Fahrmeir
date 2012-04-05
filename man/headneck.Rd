@@ -17,16 +17,10 @@
     \item{withdrawals}{a numeric vector}
   }
 }
-\details{
-   
-}
 \source{
      Ludwig Fahrmeir, Gerhard Tutz (1994):  Multivariate Statistical Modelling
    Based on Generalized Linear Models. Springer Series in Statistics. 
    Springer Verlag. New-York  Berlin Heidelberg
-}
-\references{
-  
 }
 \examples{
 str(headneck) 

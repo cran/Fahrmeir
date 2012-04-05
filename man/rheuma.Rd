@@ -32,9 +32,6 @@
    Based on Generalized Linear Models. Springer Series in Statistics. 
    Springer Verlag. New-York  Berlin Heidelberg
 }
-\references{
-  
-}
 \examples{
 str(rheuma)
 summary(rheuma) 

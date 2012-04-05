@@ -26,16 +26,10 @@ List of 2
   ..$ age  : Factor w/ 4 levels "40-50","51-60",..: 1 1 2 2 3 3 4 4 1 1 ...
   ..$ n    : int [1:16] 19 613 25 556 48 783 146 666 31 748 ...
 }
-\details{
-  
-}
 \source{
      Ludwig Fahrmeir, Gerhard Tutz (1994):  Multivariate Statistical Modelling
    Based on Generalized Linear Models. Springer Series in Statistics. 
    Springer Verlag. New-York  Berlin Heidelberg
-}
-\references{
-   
 }
 \examples{
 str(visual) 
