@@ -1,6 +1,6 @@
-22d20e95fbf96b9ae17ba1756091b472 *DESCRIPTION
+ca8e33067cabd0fdce3c42ebf4042c3b *DESCRIPTION
 32b5a8b410ca7ff8cb20e8225a985ebc *NAMESPACE
-762e108ab10c9a89845fe0fad6578ac9 *NEWS
+d4ce29003ae0de58a1c9af88db9e0b51 *NEWS
 9272a8998ddfa4d3e42df775efdf7795 *data/Regensburg.RData
 ba1fa1e55a8567a734859349b272dc6a *data/breath.RData
 3216d05eaaf7b1a5c352a151bad0551a *data/caesar.RData
@@ -14,7 +14,7 @@ fb5f7fc07e3824e341d5c0978ebf32d9 *data/headneck.RData
 04228700280b266a8fe929c6c88e61c8 *data/tonsil.RData
 e20fa19e3e906d26d36bc42e42523d17 *data/visual.RData
 a8c4ea483fcd9983377e1fe4637d3b6a *data/wine.RData
-87166e42ecda0aa959c0be3597403572 *man/Regensburg.Rd
+0278c2939cf265c708c4d27a70f54830 *man/Regensburg.Rd
 65059ad4ff5b9e78abd742b2895fffbb *man/breath.Rd
 be37c5913faa7e94e79c822fb351dadb *man/caesar.Rd
 46acf4578c8b8a861e09eaccbd262275 *man/cells.Rd
